@@ -26,4 +26,6 @@ Follow these steps to set up the project:
 3. Install the required packages:
    ```sh
    pip install -r requirements.txt
-   ```	
+   ```
+
+We hope you find our work insightful!
