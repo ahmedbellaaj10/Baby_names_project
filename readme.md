@@ -28,4 +28,6 @@ Follow these steps to set up the project:
    pip install -r requirements.txt
    ```
 
-We hope you find our work insightful!
+Each of the notebooks contains some visualization work related to one type of visualization, for some visualizations, we decided to show some insights and gi further to create alternative designs, for some others, we decided to work on two variants of visualization and try to compare them.
+
+We home you find our work insight! 
